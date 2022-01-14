@@ -1,7 +1,5 @@
 /*
- * Notes for Mr. Cheeseman
- * 
- * Hi sir. The program is an online grocery store simulation. The main class is the StoreRunner class
+ * The program is an online grocery store simulation. The main class is the StoreRunner class
  * 
  * Here are the implementation of main concepts:
  * 

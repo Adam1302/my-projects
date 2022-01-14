@@ -1,13 +1,6 @@
 /** 
  * Chess (for beginners)
  * Adam Abdulhamid
- * Gr 11 Computer Science Final Project
- * May 28 2019
- * 
- * NOTES FOR MR. CHEESEMAN
- * 
- * ***Program is a bit long - no worries if you don't mark it before exam week.
- * ***Didn't have enough time to look at graphics.
  * 
  * The program is very long; however, a large portion of the code is repitition of a recurring process that changes slightly depending on each piece 
  * All USER_____MOVE and COMPUTER_____MOVE classes involved similar calculations. See ComputerRookMoves and UserRookMoves classes for comments on the code.
@@ -17,7 +10,7 @@
  * The computer is not very 'intelligent'. Its possible moves are scored based on the piece's value and the value of the location to which it is moving.
  * So, a pawn capturing a queen would have more value than a bishop capturing a knight; therefore, the computer would select the higher scored move.
  * 
- * Here is how I used the required concepts (Program Description has changed):
+ * Concepts Included:
  * 
  * Variables:
  * ---Used throughout the program in piece selection, piece position, player names, etc.
@@ -107,7 +100,7 @@ public class ExperimentingWithChess
     return name;
   }
   
-  public static void introduction() throws InterruptedException // taken from Mr.Cheeseman's sample code
+  public static void introduction() throws InterruptedException 
   {
     Scanner input = new Scanner(System.in);
     
