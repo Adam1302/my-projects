@@ -1,4 +1,4 @@
-# java-projects
+# my-projects
 
 In this folder you will find a collection of projects I have began to work on since my introoduction to computer programming.
 
