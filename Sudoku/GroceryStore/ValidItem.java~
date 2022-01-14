@@ -1,5 +1,0 @@
-public interface ValidItem
-{
-  String toString();
-  double getPrice();
-}
