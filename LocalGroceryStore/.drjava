@@ -1,0 +1,22 @@
+#DrJava configuration file
+#Tue May 19 19:05:38 EDT 2020
+javac.location = C:\\Program Files\\Java\\jdk1.8.0
+all.compiler.versions = true
+font.main = Monospaced-15
+key.delete.next = [shift DELETE]
+key.delete.previous = [shift BACK_SPACE]
+quit.prompt = false
+save.before.compile = true
+open.folder.recursive = true
+recent.files = [C:\\Users\\adam1\\OneDrive - De La Salle College Oaklands\\Gr 12 Comp Sci\\Culminating Activity\\Project\\Category.java,C:\\Users\\adam1\\OneDrive - De La Salle College Oaklands\\Gr 12 Comp Sci\\Culminating Activity\\Project\\Item.java,C:\\Users\\adam1\\OneDrive - De La Salle College Oaklands\\Gr 12 Comp Sci\\Culminating Activity\\Project\\Shopper.java,C:\\Users\\adam1\\OneDrive - De La Salle College Oaklands\\Gr 12 Comp Sci\\Culminating Activity\\Project\\Store.java,C:\\Users\\adam1\\OneDrive - De La Salle College Oaklands\\Gr 12 Comp Sci\\Culminating Activity\\Project\\StoreRunner.java]
+window.height = 1048
+window.width = 1938
+window.x = -9
+window.y = -9
+window.state = 6
+doc.list.width = 82
+last.dir = C:\\Users\\adam1\\OneDrive - De La Salle College Oaklands\\Gr 12 Comp Sci\\Culminating Activity\\Project\\ValidItem.java
+last.interactions.dir = C:\\Users\\adam1\\OneDrive - De La Salle College Oaklands\\Gr 12 Comp Sci\\Culminating Activity\\Project
+tabbedpanes.state = 960 540 700 400
+new.version.notification.last = 1589572434716
+file.ext.registration = always

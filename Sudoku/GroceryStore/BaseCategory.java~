@@ -1,0 +1,11 @@
+/**
+ * Parent class for CATEGORY and SUBCATEGORY classes.
+ */
+public abstract class BaseCategory
+{
+  String name;
+  public abstract void displayContents();
+  
+  public abstract String toString();
+  
+}

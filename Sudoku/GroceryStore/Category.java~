@@ -1,0 +1,40 @@
+/**
+ * Class for a category (ex. Dairy, Fresh Produce)
+ */
+import java.util.ArrayList;
+
+public class Category extends BaseCategory
+{
+  private String name;
+  public ArrayList<Subcategory> list;
+  public Category(String name)
+  {
+    this.name = name;
+    list = new ArrayList<Subcategory>();
+  }
+  
+  public void add(Subcategory a)
+  {
+    list.add(a);
+  }
+  
+  public Subcategory get(int i)
+  {
+    return list.get(i);
+  }
+  
+  public void displayContents()
+  {
+    System.out.println();
+    for (int i = 0; i < list.size(); i++)
+    {
+      System.out.println(String.valueOf(i) + " -- " + list.get(i));
+    }
+    StoreRunner.extraOptions();
+  }
+  
+  public String toString()
+  {
+    return name;
+  }
+}
